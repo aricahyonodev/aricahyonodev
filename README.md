@@ -1,7 +1,7 @@
 <h2> Hi, I,m Ari Cahyono</h2>
 <p>Learner | Web Developer</p>
 
-[![Linkedin: aricahyono](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aricahyonodev/)
+[![Linkedin: aricahyono](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.www.linkedin.com/in/aricahyonodev/)](https://www.linkedin.com/in/aricahyonodev/)
 
 
 ### A little more about me...  
