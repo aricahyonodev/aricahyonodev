@@ -1,16 +1,14 @@
-<h2> Hi, I,m Ari Cahyono</h2>
-<p>Learner | Web Developer</p>
-
-[![Linkedin: aricahyono](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.www.linkedin.com/in/aricahyonodev/)](https://www.linkedin.com/in/aricahyonodev/)
+<h2>👋Hello! I'm Ari Cahyono</h2>
+<p><em>Learner | Web Developer</em></p>
 
 
-### A little more about me...  
+📝 A little more about me...  
 
 ```javascript
 const ari = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, Java, PHP],
-  tools: [React, Redux, Node, Express JS, Java Spring, Laravel],
+  code: ["HTML", "CSS", "Javascript", "Java", "PHP"],
+  tools: ["React", "Redux", "Node", "Express JS", "Java Spring", "Laravel"],
   bootcampAlumni: ["SYNRGY Academy", "Digital Talent Scholarship", "Dicoding Academy"],
 }
 ```
